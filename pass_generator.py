@@ -31,4 +31,4 @@ elif option == '2':
 elif option == '3':
     generate_password([string.digits, string.punctuation])
 else:
-    print("Please select number 1, 2, or 3")
+    print("Please select number between 1, 2 and 3")
